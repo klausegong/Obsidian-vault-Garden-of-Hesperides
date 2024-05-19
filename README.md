@@ -1,6 +1,6 @@
 # Obsidian-vault-Garden-of-Hesperides
 为科研而生的Obsidian库🎉，打造以“期刊-学者-机构-笔记”四为一体的笔记生态工作流
-
+![image.png](https://klausepicgo.oss-cn-hangzhou.aliyuncs.com/img/202405192138022.png)
 ### 1 、为什么会做这个库
 我原来使用的笔记软件是 wolai, 也曾接触过 notion，会与 ob 结缘是因为使用了青柠学术的 zotero one 插件，从 zotero 开始到 obsidian 的学术自动化工作流的接触，让我的科研效率有了很大幅度的进步，当时就在（小红书）科研推土机上写了一系列的推文记录我的学习过程，其中有一篇还被青柠学术放在了他们的用户故事中：
 ![image.png](https://klausepicgo.oss-cn-hangzhou.aliyuncs.com/img/202405192036804.png)
