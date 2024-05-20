@@ -31,7 +31,6 @@
 ![image.png](https://klausepicgo.oss-cn-hangzhou.aliyuncs.com/img/202405192100320.png)
 
 ### 4、更多学术技能分享，小红书关注 [科研推土机](https://www.xiaohongshu.com/user/profile/5eb1007c000000000100613d)
-![image.png](https://klausepicgo.oss-cn-hangzhou.aliyuncs.com/img/202405192110314.png)
 
 
 
