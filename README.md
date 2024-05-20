@@ -15,7 +15,7 @@
 
 ![image.png](https://klausepicgo.oss-cn-hangzhou.aliyuncs.com/img/202405191558301.png)
 
-
+<br />
 
 ### 2、库名字的来由
 中文版本：<br />
@@ -27,8 +27,16 @@
 法语版本：<br />
 **Le jardin des Hespérides**  est un nom de bibliothèque universitaire très poétique. Il est tiré de la mythologie grecque et désigne le jardin où se trouve l'arbre aux pommes d'or. Ce jardin est censé se trouver au bout du monde et être gardé par des nymphes marines. Les pommes d'or représentent la connaissance et la sagesse, c'est pourquoi le jardin des Hespérides symbolise le summum de la quête académique. Utiliser ce nom pour une bibliothèque universitaire suggère que celle-ci est un précieux trésor de connaissances, contenant de riches ressources académiques que les universitaires et les étudiants peuvent explorer et découvrir. Cela laisse entendre que la bibliothèque est un lieu sacré et magnifique, où les gens peuvent trouver l'inspiration et l'illumination. De plus, le nom "Le jardin des Hespérides" a une portée internationale, car il s'agit d'une référence mythologique grecque bien connue. Il convient à tous les types de bibliothèques universitaires, y compris les bibliothèques de recherche et les bibliothèques spécialisées.
 
-### 3、加入微信讨论群
-![image.png](https://klausepicgo.oss-cn-hangzhou.aliyuncs.com/img/202405192100320.png)
+### 3、 声明
+(1) 本库使用的 Components 插件为收费插件（主要实现主页按钮以及快速搜索可视化功能），目前为早鸟内测阶段，仍能免费使用，如需购买可按开发者提供购买激活方式进行购买，目前开发者推出[早鸟价格](https://wxycbt0cjk.feishu.cn/docx/QigvddUTloAUf9xTRX5capy3nwG) ，同时 Components开发者也有推出相关[返利活动](https://wxycbt0cjk.feishu.cn/docx/TaySdtCqhox3ECxIj9ecWfminSb), 活动截止期限不祥。若选择不购买的用户，也可以自行将主页搜索按钮以及相关 markdown 可视化操作换成其他免费开源的 [dataview方案](https://zhuanlan.zhihu.com/p/409253101)，例如[宋爽博士的 papperbell 库的方案](https://github.com/SongshGeo/Obsidian-PaperBell)；<br />
+(2）**本库在使用上全开源，除以上第一点提及的 component 插件外，在使用上不存在任何付费部分**，请放心使用；<br />
+(3) 本库中所使用的图片皆为 demo 图片，用户可自行更改，如有侵权请联系，立即删除；<br />
+(4) 共享的 Garden of Hesperides 库中所设置的期刊、机构和学者文件夹中仅包含示例 markdown, 用户可以按照教程通过模版自行添加。
+
+<br />
+
+### 4、加入微信讨论群
+![image.png](https://klausepicgo.oss-cn-hangzhou.aliyuncs.com/img/202405210111539.png)
 
 ### 4、更多学术技能分享，小红书关注 [科研推土机](https://www.xiaohongshu.com/user/profile/5eb1007c000000000100613d)
 
